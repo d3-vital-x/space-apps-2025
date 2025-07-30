@@ -22,3 +22,12 @@ This repository is created for NASA Space Apps Challenge 2025. All materials are
 
 ---
 **Slogan:** _"Transform the World, Illuminate the Future"_  
+---
+**Slogan:** _"Transform the World, Illuminate the Future"_  
+
+## 📽️ Watch the Hypothesis Simulation Video
+
+🎬 **Title:** Dark Vital Dimensions by R-GPT  
+🔗 [Click here to watch on YouTube](https://youtu.be/dbWLp-cLfgk)
+
+[![Watch the Video](https://img.youtube.com/vi/dbWLp-cLfgk/0.jpg)](https://youtu.be/dbWLp-cLfgk)
